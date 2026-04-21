@@ -45,21 +45,6 @@ npm run dev
 
 Found a bug or want to add a feature? Please open an Issue to discuss it first. Pull requests for bug fixes and performance improvements are always welcome!
 
----
-
-## 🏢 About Stackaura
-
-This comprehensive boilerplate is maintained by **Stackaura**. We specialize in providing top-tier digital solutions, focusing on scalable enterprise SaaS development, premium branding, and complex software architecture designed to elevate your business.
-
-**Need help launching your SaaS?**
-> Visit us at [**Stackaura.com**](https://www.stackaura.com/) to learn more about our MVP development and consulting services.
-
-<div align="center">
-  <a href="https://www.stackaura.com/">
-    <img src="https://img.shields.io/badge/Visit-Stackaura-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Visit Stackaura" />
-  </a>
-</div>
-
 
 ---
 
@@ -78,3 +63,4 @@ If you found this tool useful, check out our other high-performance web utilitie
 - **Author:** [Ahmar Hussain](https://github.com/RanaAhmar)
 
 ---
+
