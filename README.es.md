@@ -1,3 +1,5 @@
+![Stackaura Next.js SaaS Starter](banner.png)
+
 # 🚀 Next.js SaaS Starter (Español)
 ### El boilerplate definitivo para lanzar tu próximo producto SaaS en tiempo récord.
 

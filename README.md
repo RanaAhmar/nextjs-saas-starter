@@ -1,3 +1,5 @@
+![Stackaura Next.js SaaS Starter](banner.png)
+
 # 🚀 Next.js 15 SaaS Starter
 
 <div align="center">
